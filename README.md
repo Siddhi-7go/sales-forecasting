@@ -1,7 +1,7 @@
 # 📊 Sales Forecasting Using Time Series Analysis
 ## 🔗 Project Links
 
-- 📂 GitHub Repository: [Sales Forecasting](YOUR_GITHUB_URL)
+- 📂 GitHub Repository: [Sales Forecasting](https://github.com/Siddhi-7go/sales-forecasting.git)
 - 🚀 Live Dashboard: [Streamlit App](https://sales-forecastinggit-3urjst5jqidjeagqfe8fka.streamlit.app/#sales-forecasting-dashboard)
 
 ## 📌 Project Overview
